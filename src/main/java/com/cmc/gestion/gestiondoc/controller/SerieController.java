@@ -21,7 +21,7 @@ import com.cmc.gestion.gestiondoc.entity.GdSerie;
 @RestController
 @RequestMapping("/serie")
 public class SerieController {
-	//holas//
+	//holas/
 	@Autowired
 	private SerieDao serieDao;
     
