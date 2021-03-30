@@ -16,7 +16,7 @@ import com.cmc.gestion.gestiondoc.dao.SerieDao;
 import com.cmc.gestion.gestiondoc.dao.SubserieDao;
 import com.cmc.gestion.gestiondoc.entity.GdSerie;
 import com.cmc.gestion.gestiondoc.entity.GdSubserie;
-
+//Juann
 @RestController
 @RequestMapping("/subserie")
 public class SubSerieController {
