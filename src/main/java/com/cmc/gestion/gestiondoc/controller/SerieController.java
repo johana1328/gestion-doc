@@ -17,7 +17,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.cmc.gestion.gestiondoc.dao.SerieDao;
 import com.cmc.gestion.gestiondoc.entity.GdSerie;
-
+//Pruebas
 @RestController
 @RequestMapping("/serie")
 public class SerieController {
